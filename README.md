@@ -1,4 +1,4 @@
-# CamPhish
+# CamPhishing By Samarth Sehrawat
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 ![CamPhish](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
 
@@ -51,6 +51,5 @@ bash camphish.sh
 <p><b>Version: 1.4:</b> Ngrok authtoken update</p>
 <p><b>Version: 1.3:</b> Fix ngrok direct link</p>
 
-#### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
